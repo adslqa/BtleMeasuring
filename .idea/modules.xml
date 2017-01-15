@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BtleMeasuring.iml" filepath="$PROJECT_DIR$/BtleMeasuring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BtleMeasuring/BtleMeasuring-BtleMeasuring.iml" filepath="$PROJECT_DIR$/BtleMeasuring/BtleMeasuring-BtleMeasuring.iml" />
+    </modules>
+  </component>
+</project>
